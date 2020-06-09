@@ -39,5 +39,3 @@
 ### Association
 - has_many :messages
 - has_many :users
-
-
